@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18fd61fe-8210-4e54-87c7-9e1723d1d660" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/DataComponents/ChangeCubeColorData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/DataComponents/ChangeCubeColorData.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/DataComponents/DestroyerTag.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/DataComponents/DestroyerTag.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Systams/ChangeMeshColorSystem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Systams/ChangeMeshColorSystem.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Systams/DestroyerColliderSystem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Systams/DestroyerColliderSystem.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnityPhysicsSamples/Assets/Common/InputActions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../UnityPhysicsSamples/Assets/Common/InputActions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnityPhysicsSamples/Assets/Demos/4. Joints/Ragdoll.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../UnityPhysicsSamples/Assets/Demos/4. Joints/Ragdoll.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnityPhysicsSamples/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../UnityPhysicsSamples/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnityPhysicsSamples/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../UnityPhysicsSamples/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Systams/MovemenetSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManaager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataComponents/SpeedData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataComponents/RotationSpeedData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataComponents/DummyEntityData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Systams/RoatationSpeedSystem.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataComponents/SpeedData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Systams/MovemenetSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataComponents/RotationSpeedData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Systams/Rotation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Systams/RoatationSpeed.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Systams/RoatationSpeedSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Systams/DeleteSystem.cs" />
+        <option value="$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.17.0-preview.42/Unity.Entities/EntityCommandBufferSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Systams/DeleteEntitySystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Systams/PickUpSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataComponents/DeleteTag.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataComponents/DummyEntityData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Systams/DestroyDummySystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataComponents/DestroyerTag.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Systams/DestroyerColliderSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataComponents/ChangeCubeColorData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Systams/ChangeMeshColorSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManaager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uyzTK2KP0EwZyKY3ywlacPUcGt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3502036" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30017453" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18fd61fe-8210-4e54-87c7-9e1723d1d660" name="Default Changelist" comment="" />
+      <created>1625652625004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625652625004</updated>
+      <workItem from="1625652649800" duration="7728000" />
+      <workItem from="1625712965117" duration="63000" />
+      <workItem from="1625713055439" duration="14537000" />
+      <workItem from="1625747490640" duration="879000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1750" height="419" key="GridCell.Tab.0.bottom" timestamp="1625746750168">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1625746750168" />
+    <state width="1750" height="419" key="GridCell.Tab.0.center" timestamp="1625746750166">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1625746750166" />
+    <state width="1750" height="419" key="GridCell.Tab.0.left" timestamp="1625746750165">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1625746750165" />
+    <state width="1750" height="419" key="GridCell.Tab.0.right" timestamp="1625746750166">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1625746750166" />
+    <state width="1750" height="419" key="GridCell.Tab.1.bottom" timestamp="1625746750170">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1625746750170" />
+    <state width="1750" height="419" key="GridCell.Tab.1.bottom/0.25.1792.1026@0.25.1792.1026" timestamp="1625715478224" />
+    <state width="1750" height="419" key="GridCell.Tab.1.center" timestamp="1625746750169">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1625746750169" />
+    <state width="1750" height="419" key="GridCell.Tab.1.center/0.25.1792.1026@0.25.1792.1026" timestamp="1625715478223" />
+    <state width="1750" height="419" key="GridCell.Tab.1.left" timestamp="1625746750168">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1625746750168" />
+    <state width="1750" height="419" key="GridCell.Tab.1.left/0.25.1792.1026@0.25.1792.1026" timestamp="1625715478223" />
+    <state width="1750" height="419" key="GridCell.Tab.1.right" timestamp="1625746750170">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1625746750170" />
+    <state width="1750" height="419" key="GridCell.Tab.1.right/0.25.1792.1026@0.25.1792.1026" timestamp="1625715478224" />
+    <state width="1750" height="419" key="GridCell.Tab.2.bottom" timestamp="1625746750172">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.2.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1625746750172" />
+    <state width="1750" height="419" key="GridCell.Tab.2.center" timestamp="1625746750171">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.2.center/0.0.1792.1120@0.0.1792.1120" timestamp="1625746750171" />
+    <state width="1750" height="419" key="GridCell.Tab.2.left" timestamp="1625746750171">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.2.left/0.0.1792.1120@0.0.1792.1120" timestamp="1625746750171" />
+    <state width="1750" height="419" key="GridCell.Tab.2.right" timestamp="1625746750172">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.2.right/0.0.1792.1120@0.0.1792.1120" timestamp="1625746750172" />
+    <state width="1750" height="419" key="GridCell.Tab.3.bottom" timestamp="1625746750174">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.3.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1625746750174" />
+    <state width="1750" height="419" key="GridCell.Tab.3.center" timestamp="1625746750173">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.3.center/0.0.1792.1120@0.0.1792.1120" timestamp="1625746750173" />
+    <state width="1750" height="419" key="GridCell.Tab.3.left" timestamp="1625746750172">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.3.left/0.0.1792.1120@0.0.1792.1120" timestamp="1625746750172" />
+    <state width="1750" height="419" key="GridCell.Tab.3.right" timestamp="1625746750173">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.3.right/0.0.1792.1120@0.0.1792.1120" timestamp="1625746750173" />
+    <state x="748" y="477" key="VCS.ChangelistChooser" timestamp="1625659022878">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="748" y="477" key="VCS.ChangelistChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1625659022878" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/GameManaager.cs</url>
+          <line>46</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/GameManaager.cs" initialLine="29">
+            <startOffsets>
+              <option value="1060" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1094" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/GameManaager.cs</url>
+          <line>54</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/GameManaager.cs" initialLine="36">
+            <startOffsets>
+              <option value="1519" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1540" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
